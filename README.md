@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehdi khakbaz</h1>
 <h3 align="center">Front-end Web Developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wass08&label=Profile%20views&color=0e75b6&style=flat" alt="wass08" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/wawasensei" target="blank"><img src="https://img.shields.io/twitter/follow/wawasensei?logo=twitter&style=for-the-badge" alt="wawasensei" /></a> </p>
