@@ -2,22 +2,16 @@
 <h3 align="center">Front-end Web Developer from Iran</h3>
 
 
+- 🌱 I’m currently learning **PWA, Next.js, ...**
 
-<p align="left"> <a href="https://twitter.com/wawasensei" target="blank"><img src="https://img.shields.io/twitter/follow/wawasensei?logo=twitter&style=for-the-badge" alt="wawasensei" /></a> </p>
+- 💬 Ask me about **React, JavaScript**
 
-- 🔭 I’m currently working on [my YouTube content](https://youtube.com/c/WawaSensei)
+- 📫 How to reach me **mehdikhakbaz1995@gmail.com**
 
-- 🌱 I’m currently learning **Blender, ThreeJs, Next.js, ...**
-
-- 💬 Ask me about **React/React Native, NodeJs, React Three Fiber**
-
-- 📫 How to reach me **contact@wawasensei.dev**
-
-- ⚡ Fun fact **I am very funny**
+- ⚡  **I am**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wawasensei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wawasensei" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wassim-samad-87903265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wassim-samad-87903265" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/wass08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wass08" height="30" width="40" /></a>
 <a href="https://instagram.com/wawa.sensei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wawa.sensei" height="30" width="40" /></a>
